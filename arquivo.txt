@@ -1,0 +1,14 @@
+Linha 1
+Linha 2
+Linha 3
+Linha 4
+Linha 5
+<<<<<<< HEAD
+Linha 6
+Linha 
+Linha 7
+Linha 8
+Linha 9
+Linha 10
+=======
+>>>>>>> parent of af9b36c (Linha 6 add)
